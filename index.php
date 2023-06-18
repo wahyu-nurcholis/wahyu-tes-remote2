@@ -6,9 +6,7 @@
     <title>coba git remote 2</title>
 </head>
 <body>
-   <?php
-    echo 'hallo wahyu selamat kamu berhasil menjalankan file php makan makan yah';
-    
-   ?>
+   <h1>ini adalah web php</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident dicta asperiores aut reprehenderit ipsa voluptates error a, dolor hic nam quas molestias quia voluptatum fuga maxime doloremque vero, cumque temporibus.</p>
 </body>
 </html>
