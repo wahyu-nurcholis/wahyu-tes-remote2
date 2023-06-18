@@ -6,6 +6,9 @@
     <title>coba git remote 2</title>
 </head>
 <body>
-    <h1>mecoba git remote bagian 2</h1>
+   <?php
+    echo 'hallo wahyu selamat kamu berhasil menjalankan file php makan makan yah';
+    
+   ?>
 </body>
 </html>
