@@ -8,5 +8,12 @@
 <body>
    <h1>ini adalah web php</h1>
    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident dicta asperiores aut reprehenderit ipsa voluptates error a, dolor hic nam quas molestias quia voluptatum fuga maxime doloremque vero, cumque temporibus.</p>
+
+   <ul>
+    <li>wahyu 1</li>
+    <li>wahyu 2</li>
+    <li>wahyu 3</li>
+    <li>wahyu 4</li>
+   </ul>
 </body>
 </html>
